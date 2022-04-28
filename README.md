@@ -11,4 +11,4 @@ The OSMnx module is used to pull data from OpenStreetMap (OSM) to get estimation
 
 Estimations provided by the script are not completely accurate due to the lack of mapped OSM data, but flood depths captured by ICEYE's SAR satellites are very accurate and the population data created by the DLR is very accurate for a global dataset. 
 
-The main idea is to provide quick first estimations via Python automatization of the extent of flood damage and the amount of people affected by a flooding event to first responders and international humanitarian aid.
+The main idea is to provide quick first estimations via Python automatization of the extent of flood damage and the number of people affected by a flooding event to first responders and international humanitarian aid.
