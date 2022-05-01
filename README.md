@@ -1,4 +1,4 @@
-## Automating Disaster Mapping Processes
+## Automating Global Geospatial Dataset Analysis
 ### Cases from flood disasters in the cities of the Global South
 
 This code will turn raster data into an interactive local kepler.gl web map displaying the extent of flooding events and its effects on the local population and infrastructure.
