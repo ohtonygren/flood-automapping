@@ -16,6 +16,7 @@ Estimations provided by the script are not completely accurate due to the lack o
 The main idea is to provide quick first estimations via Python automatization of the extent of flood damage and the number of people affected by a flooding event to first responders and international humanitarian aid.
 
 
+
 Conctact information for further questions:
 
 Ohto Nygren
