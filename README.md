@@ -17,8 +17,13 @@ The main idea is to provide quick first estimations via Python automatization of
 
 
 Conctact information for further questions:
+
 Ohto Nygren
+
 omnygr@utu.fi
+
 MSc student in geography
+
 University of Turku
+
 Finland
